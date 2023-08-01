@@ -21,10 +21,9 @@ options(htmltools.dir.version = FALSE)
 <img src="figs/tucson.jpg"><br><br><br>
 ```
 
-How do we get from here to a de-carbonized economy? I am interested in... 
+I am a Postdoctoral Associate at [Yale School of the Environment](https://environment.yale.edu/). My interests revolve around the development and adoption of technologies that mitigate climate change. I am drawn to understand how uncertainty and risk affect economic decisions and how to improve policy in light of this. What is the speed and direct of technological improvement? Why does policy endure or fail? Will changing preferences shape technology and markets? I use a combination of economic modeling and causal inference to investigate these questions to better understand: How can we get from here to there?
 
-
-I am a Postdoctoral Associate at [Yale School of the Environment](https://environment.yale.edu/). Prior to Yale, I was a research fellow at the Environmental Protection Agency where I worked on cars, including [light and medium-duty vehicle rule making](https://www.epa.gov/regulations-emissions-vehicles-and-engines/proposed-rule-multi-pollutant-emissions-standards-model), and environmental justice questions. I earned my Ph.D. in [Agricultural, Food, and Resource Economics](https://afre.msu.edu) at Michigan State University. I also hold degrees from The University of Chicago and Carnegie Mellon University. Before graduate school, I ran a small biofuel company^[[*Details*](figs/details.png)] in [Braddock, PA](https://web.archive.org/web/20101112225821/http://15104.cc/braddock/).
+Prior to Yale, I was a research fellow at the Environmental Protection Agency where I worked on cars, including [light and medium-duty vehicle rule making](https://www.epa.gov/regulations-emissions-vehicles-and-engines/proposed-rule-multi-pollutant-emissions-standards-model), and environmental justice questions. I earned my Ph.D. in [Agricultural, Food, and Resource Economics](https://afre.msu.edu) at Michigan State University. I also hold degrees from The University of Chicago and Carnegie Mellon University. Before graduate school, I ran a small biofuel company^[[*Details*](figs/details.png)] in [Braddock, PA](https://web.archive.org/web/20101112225821/http://15104.cc/braddock/).
 
 # Upcoming/recent presentations
 
@@ -44,13 +43,13 @@ Forthcoming at Regional Science and Urban Economics.
 Attribute Production and Technical Change in Automobiles. 2023.
 With Soren Anderson and Gloria Helfand. [[NBER]](https://conference.nber.org/conf_papers/f178120.pdf)
 
-Political Risk Reduces Solar Adoption in Renewable Portfolio Standards. 2022.
+Political Risk Reduces Solar Adoption in Renewable Portfolio Standards. 2022.^[Dissertation chapter.] [[Slides]](https://www.dropbox.com/scl/fi/2k3e1eh86bsox7rnvmigz/Watten_AERE_2022.pdf?rlkey=wyhl3h35cfv05ia5gcoo4odn8&dl=0)
 
 ## Works in progress
 
-Co-adoption of rooftop solar and electric vehicles.^[DOE grant funded.] With Bryan Bollinger and Kenneth Gillingham.
+Co-adoption of rooftop solar and electric vehicles. With Bryan Bollinger and Kenneth Gillingham.^[DOE grant funded.]
 
-Green vs grid-independence messaging: evidence from a residential battery storage field experiment.^[Ibid.] With Bryan Bollinger and Kenneth Gillingham.
+Green vs grid-independence messaging: evidence from a residential battery storage field experiment. With Bryan Bollinger and Kenneth Gillingham.^[Ibid.]
 
 Against the Wind? Hedonic Estimation Under Attribute Uncertainty.
 
