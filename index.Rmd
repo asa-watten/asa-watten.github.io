@@ -16,7 +16,7 @@ knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
 options(htmltools.dir.version = FALSE)
 ```
 # Energy and environmental economist
-### [cv](https://www.dropbox.com/scl/fi/wqc9ny1b6t4ajq100w9ek/CV.pdf?rlkey=cxvbaoe21tyuhbi3rtdfan0s1&dl=0) $\cdot$ [research](#research) $\cdot$ [contact](#contact)
+### [cv](https://www.dropbox.com/scl/fi/wqc9ny1b6t4ajq100w9ek/CV.pdf?rlkey=cxvbaoe21tyuhbi3rtdfan0s1&dl=0) ⋅ [research](#research) ⋅ [contact](#contact)
 ```{marginfigure}
 <img src="figs/tucson.jpg"><br><br><br>
 ```
