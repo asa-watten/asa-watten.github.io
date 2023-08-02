@@ -124,10 +124,10 @@ h3.subtitle {
              
              
              @media (max-width: 760px) { label.margin-toggle:not(.sidenote-number) { display: inline; }
-                            
-                            .margin-toggle:checked + .sidenote,
+                            .sidenote,
                             .margin-toggle:checked + .marginnote { display: none; }
-                            .shownote, .sidenote, .marginnote  {
+                            .margin-toggle:checked + .sidenote,
+                            .shownote, .marginnote  {
                                                                    display: block;
                                                                    float: left;
                                                                    left: 1rem;
