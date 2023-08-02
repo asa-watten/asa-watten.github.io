@@ -47,11 +47,11 @@ h1, h2, h3.subtitle { font-style: italic;
 body { font-family: Montserrat, "Gill Sans", "Gill Sans MT", "Helvetica"; 
   color:#00356b;
 }
-p, ol, ul { font-size: 1.1rem; 
+p, ol, ul { font-size: 1.5rem; 
   font-style: normal;
   font-weight: normal;
 }
-p { line-height: 1.6rem;
+p { line-height: 2.2rem;
     margin-top: 1.4rem;
     margin-bottom: 1.4rem;
     padding-right: 0;
@@ -107,8 +107,8 @@ h3.subtitle {
                          width: 50%;
                          margin-top: 0;
                          margin-bottom: 1rem;
-                         font-size: .8rem;
-                         line-height: 1.2;
+                         font-size: 1rem;
+                         line-height: 1.5;
                          vertical-align: baseline;
                          position: relative; }
 
