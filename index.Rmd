@@ -21,14 +21,14 @@ options(htmltools.dir.version = FALSE)
 <img src="figs/tucson.jpg"><br><br><br>
 ```
 
-I am a Postdoctoral Associate at [Yale School of the Environment](https://environment.yale.edu/). My interests revolve around the development and adoption of technologies that mitigate climate change. I am drawn to understand how uncertainty and risk affect economic decisions and how to improve policy in light of this. What is the speed and direct of technological improvement? Why does policy endure or fail? Will changing preferences shape technology and markets? I use a combination of economic modeling and causal inference to investigate these questions to better understand: How can we get from here to there?
+I am an economist and post-doc at [Yale School of the Environment](https://environment.yale.edu/). My current interests revolve around the development and adoption of technologies that mitigate climate change. In particular I am interested in how uncertainty affects economic and political decisions about these technologies. How fast and in what direction will innovation move? How will policy change in the future? How will people react to new technologies? I use a combination of economic modeling and causal inference to investigate these questions.
 
-Prior to Yale, I was a research fellow at the Environmental Protection Agency where I worked on cars, including [light and medium-duty vehicle rule making](https://www.epa.gov/regulations-emissions-vehicles-and-engines/proposed-rule-multi-pollutant-emissions-standards-model), and environmental justice questions. I earned my Ph.D. in [Agricultural, Food, and Resource Economics](https://afre.msu.edu) at Michigan State University. I also hold degrees from The University of Chicago and Carnegie Mellon University. Before graduate school, I ran a small biofuel company^[[*Details*](figs/details.png)] in [Braddock, PA](https://web.archive.org/web/20101112225821/http://15104.cc/braddock/).
+Prior to Yale, I was a research fellow at the Environmental Protection Agency where I worked on cars, including [light and medium-duty vehicle rule making](https://www.epa.gov/regulations-emissions-vehicles-and-engines/proposed-rule-multi-pollutant-emissions-standards-model), and environmental justice questions. I earned my Ph.D. in [Agricultural, Food, and Resource Economics](https://afre.msu.edu) at Michigan State University. I also hold degrees from The University of Chicago and Carnegie Mellon University. Before graduate school, I ran a small biofuel company^[[Details.](figs/details.png)] in Braddock, Pennsylvania.^[Now famously the home of Senator John Fetterman who was [mayor at the time.](https://www.rollingstone.com/culture/culture-features/john-fetterman-pennsylvania-mayor-hell-allegheny-county-100493/)]
 
 # Upcoming/recent presentations
 
-ASSA 2024 Annual Meeting <br>
-NBER Economics of Energy Use in Transportation [[slides]](https://www.dropbox.com/scl/fi/stcehaxycwbwofk6izotu/Attributes-NBER.pdf?rlkey=7wpfb2f4ga2xgzu7rxd03lygh&dl=0)
+⋅ ASSA 2024 Annual Meeting <br>
+⋅ NBER Economics of Energy Use in Transportation [[slides]](https://www.dropbox.com/scl/fi/stcehaxycwbwofk6izotu/Attributes-NBER.pdf?rlkey=7wpfb2f4ga2xgzu7rxd03lygh&dl=0)
 
 # Research <a id="research"></a>
 

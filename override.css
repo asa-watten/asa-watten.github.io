@@ -1,4 +1,4 @@
-body {background-color: #EFF5F5;}
+body {background-color: #EFF5F4;}
 
 h1, h2, h3.subtitle { font-style: italic;
   letter-spacing: .05em
@@ -23,7 +23,7 @@ h1, h2, h3.subtitle { font-style: italic;
 @font-face {
   font-family: 'Montserrat';
   font-style: italic;
-  font-weight: 800;
+  font-weight: bold;
   src: url(https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ppC8MLnbtg.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
@@ -47,12 +47,17 @@ h1, h2, h3.subtitle { font-style: italic;
 body { font-family: Montserrat, "Gill Sans", "Gill Sans MT", "Helvetica"; 
   color:#00356b;
 }
-p, ol, ul { font-size: 1.2rem; 
+p, ol, ul { font-size: 1.1rem; 
   font-style: normal;
   font-weight: normal;
 }
-
-.numeral, .sidenote-number { font-family: et-book-roman-old-style; }
+p { line-height: 1.6rem;
+    margin-top: 1.4rem;
+    margin-bottom: 1.4rem;
+    padding-right: 0;
+    vertical-align: baseline;
+    text-align: justify;
+}
 
 h1.title { font-weight: bold;
      font-style: normal;
@@ -61,6 +66,8 @@ h1.title { font-weight: bold;
      font-size: 3.2rem;
      line-height: 1;
 }
+
+.numeral, .sidenote-number { font-family: Montserrat, "Helvetica"; }
 
 
 a:link { text-decoration: none;
@@ -94,6 +101,27 @@ h3.subtitle {
              display: block;
              line-height: 1; }
              
+             .sidenote, .marginnote { float: right;
+                         clear: right;
+                         margin-right: -60%;
+                         width: 50%;
+                         margin-top: 0;
+                         margin-bottom: 1rem;
+                         font-size: .8rem;
+                         line-height: 1.2;
+                         vertical-align: baseline;
+                         position: relative; }
+
+.sidenote-number {
+                                           position: relative;
+                                           vertical-align: baseline; }
+
+.sidenote-number { font-size: .7rem;
+                    font-style: normal;
+                    font-weight: 500;
+                         top: -0.5rem;
+                         left: 0.1rem; }
+             
              
              @media (max-width: 760px) { label.margin-toggle:not(.sidenote-number) { display: inline; }
                             
@@ -118,18 +146,4 @@ h3.subtitle {
                             
                             details {
   user-select: none;
-}
-
-details>summary span.icon {
-  transition: all 0.3s;
-  margin-left: auto;
-}
-
-summary {
-  display: flex;
-  cursor: pointer;
-}
-
-summary::-webkit-details-marker {
-  display: none;
 }
