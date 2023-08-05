@@ -44,13 +44,11 @@ Prior to Yale, I was a research fellow at the Environmental Protection Agency wh
 
 # Research <a id="research"></a>
 
-## Peer-reviewed
+## Working papers 
 
 How is Rooftop Solar Capitalized in Home Prices? With Kenneth Gillingham.
-Forthcoming at Regional Science and Urban Economics.
+Invited/submitted at Regional Science and Urban Economics.
 [[Working paper]](https://www.dropbox.com/scl/fi/ccz50ie7jv95i76k1km8o/Gillingham-and-Watten-Solar-Capitalization.pdf?rlkey=36ity4d1svi1khopqssj9ni5r&dl=0)
-
-## Working papers 
 
 Attribute Production and Technical Change in Automobiles. 2023.
 With Soren Anderson and Gloria Helfand. [[NBER]](https://conference.nber.org/conf_papers/f178120.pdf)
@@ -59,9 +57,9 @@ Political Risk Reduces Solar Adoption in Renewable Portfolio Standards. 2022.^[D
 
 ## Works in progress
 
-Co-adoption of rooftop solar and electric vehicles. With Bryan Bollinger and Kenneth Gillingham.^[DOE grant funded.]
+Co-adoption of Rooftop Solar and Electric Vehicles. With Bryan Bollinger and Kenneth Gillingham.^[DOE grant funded.]
 
-Green vs grid-independence messaging: evidence from a residential battery storage field experiment. With Bryan Bollinger and Kenneth Gillingham.^[Ibid.]
+Green vs Grid-independence Messaging: Evidence from a Residential Battery Storage Field Experiment. With Bryan Bollinger and Kenneth Gillingham.^[Ibid.]
 
 Against the Wind? Hedonic Estimation Under Attribute Uncertainty.
 
@@ -70,6 +68,9 @@ Against the Wind? Hedonic Estimation Under Attribute Uncertainty.
 asa.watten + yale.edu <br>
 Pronunciation: Ace-uh.
 
+```{r date, echo=FALSE}
+message("Last update: ",Sys.Date())
+```
 
 
 
