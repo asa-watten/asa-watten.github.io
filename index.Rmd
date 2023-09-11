@@ -44,11 +44,15 @@ Prior to Yale, I was a research fellow at the Environmental Protection Agency wh
 
 # Research <a id="research"></a>
 
-## Working papers 
+## Peer-reviewed
 
 How is Rooftop Solar Capitalized in Home Prices? With Kenneth Gillingham.
-Invited/submitted at Regional Science and Urban Economics.
-[[Working paper]](https://www.dropbox.com/scl/fi/ccz50ie7jv95i76k1km8o/Gillingham-and-Watten-Solar-Capitalization.pdf?rlkey=36ity4d1svi1khopqssj9ni5r&dl=0)
+R&R at Regional Science and Urban Economics.
+[[Working paper]](https://www.dropbox.com/scl/fi/ccz50ie7jv95i76k1km8o/Gillingham-and-Watten-Solar-Capitalization.pdf?rlkey=36ity4d1svi1khopqssj9ni5r&dl=0).^[Key figure. Full solar capitalization assumes a high discount rate.<br>
+<a href="figs/solar capitalization estimates.png"><img src="figs/solar capitalization estimates.png"></a>
+]
+
+## Working papers 
 
 Attribute Production and Technical Change in Automobiles. 2023.
 With Soren Anderson and Gloria Helfand. [[NBER]](https://conference.nber.org/conf_papers/f178120.pdf)
@@ -68,7 +72,7 @@ Against the Wind? Hedonic Estimation Under Attribute Uncertainty.
 asa.watten + yale.edu <br>
 Pronunciation: Ace-uh.
 
-```{r date, echo=FALSE}
+```{r date, echo=FALSE,comment=NA}
 message("Last update: ",Sys.Date())
 ```
 
