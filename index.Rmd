@@ -1,5 +1,5 @@
 ---
-title: "ASA WATTEN"
+title: "Asa Watten"
 #subtitle: "Post-doc at Yale" # only for html output
 #author: "Asa Watten"
 #date: "`r Sys.Date()`"

@@ -47,7 +47,7 @@ h1, h2, h3.subtitle { font-style: normal;
 body { font-family: 'brandon-grotesque','gill-sans-nova', Montserrat, "Helvetica", sans-serif; 
   color:#00356b;
 }
-p, ol, ul { font-size: 1.2rem; 
+p, ol, ul { font-size: 1.1rem; 
   font-style: normal;
   font-weight: 400;
 }
@@ -56,7 +56,7 @@ p { line-height: 1.7rem;
     margin-bottom: 1.4rem;
     padding-right: 0;
     vertical-align: baseline;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     text-align: justify;
 }
 
@@ -66,6 +66,7 @@ h1.title { font-weight: 900;
      margin-bottom: 1rem;
      font-size: 2rem;
      line-height: 1;
+     letter-spacing: .3rem;
 }
 
 .numeral, .sidenote-number { font-family: Montserrat, "Helvetica"; }
@@ -81,10 +82,10 @@ a:link { text-decoration: none;
 }
 
 h1 {
-     font-weight: 500;
-     margin-top: 1.5rem;
+     font-weight: 800;
+     font-size: 1.5rem;
+     margin-top: 1rem;
      margin-bottom: 0;
-     font-size: 2rem;
      line-height: 1; }
 
 h2 {
