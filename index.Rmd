@@ -1,5 +1,5 @@
 ---
-title: "Asa Watten"
+title: "ASA WATTEN"
 #subtitle: "Post-doc at Yale" # only for html output
 #author: "Asa Watten"
 #date: "`r Sys.Date()`"
@@ -16,6 +16,8 @@ knitr::opts_chunk$set(cache.extra = packageVersion('tufte'))
 options(htmltools.dir.version = FALSE)
 ```
 
+<!--- Aobe fonts -->
+<link rel="stylesheet" href="https://use.typekit.net/vas8izs.css">
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID"></script>
 <script>
@@ -25,21 +27,22 @@ options(htmltools.dir.version = FALSE)
 
   gtag('config', 'G-6TT0DM1BX3');
 </script>
-
-# Energy and environmental economist
-### [cv](https://www.dropbox.com/scl/fi/wqc9ny1b6t4ajq100w9ek/CV.pdf?rlkey=cxvbaoe21tyuhbi3rtdfan0s1&dl=0) ⋅ [research](#research) ⋅ [contact](#contact)
+## [cv](https://www.dropbox.com/scl/fi/wqc9ny1b6t4ajq100w9ek/CV.pdf?rlkey=cxvbaoe21tyuhbi3rtdfan0s1&dl=0) ⋅ [research](#research) ⋅ [contact](#contact)
 ```{marginfigure}
 <img src="figs/tucson.jpg"><br><br><br>
 ```
 
-I am an economist and post-doc at [Yale School of the Environment](https://environment.yale.edu/). My current interests revolve around the development and adoption of technologies that mitigate climate change. In particular I am interested in how uncertainty affects economic and political decisions about these technologies. How fast and in what direction will innovation move? How will policy change in the future? How will people react to new technologies? I use a combination of economic modeling and causal inference to investigate these questions.
+I am an environmental and energy economist and a post-doc at [Yale School of the Environment](https://environment.yale.edu/). My research focuses on the microeconomics of energy and climate innovation: Who adopts new technologies and why? How can the government direct—and speed up—technical change? How do manufacturers and innovators respond to both policy and politics? I use a combination of economic modeling and causal inference to investigate these questions.
 
 Prior to Yale, I was a research fellow at the Environmental Protection Agency where I worked on cars, including [light and medium-duty vehicle rule making](https://www.epa.gov/regulations-emissions-vehicles-and-engines/proposed-rule-multi-pollutant-emissions-standards-model), and environmental justice questions. I earned my Ph.D. in [Agricultural, Food, and Resource Economics](https://afre.msu.edu) at Michigan State University. I also hold degrees from The University of Chicago and Carnegie Mellon University. Before graduate school, I ran a small biofuel company^[[Details.](figs/details.png)] in Braddock, Pennsylvania.^[Now famously the home of Senator John Fetterman who was [mayor at the time.](https://www.rollingstone.com/culture/culture-features/john-fetterman-pennsylvania-mayor-hell-allegheny-county-100493/)]
+
+I am on the job market. Here is my [research statment](https://www.dropbox.com/scl/fi/mrwu4gb3v0yous9xeilt8/Watten-Research-Statement.pdf?rlkey=fvhotxk52akobbm2psjrpgqe7&dl=0), and my [job market paper](https://www.dropbox.com/scl/fi/acxjy6un9a2efaabdjc27/Attributes_Watten_Anderson_Helfand.pdf?rlkey=l9uhir9a36qc63vhndw2ynfti&dl=0). 
 
 
 # Upcoming/recent presentations
 
 ⋅ ASSA 2024 Annual Meeting <br>
+⋅ Seminar in Environmental and Natural Resource Economics<br>
 ⋅ NBER Economics of Energy Use in Transportation [[slides]](https://www.dropbox.com/scl/fi/stcehaxycwbwofk6izotu/Attributes-NBER.pdf?rlkey=7wpfb2f4ga2xgzu7rxd03lygh&dl=0)
 
 # Research <a id="research"></a>
@@ -48,7 +51,7 @@ Prior to Yale, I was a research fellow at the Environmental Protection Agency wh
 
 How is Rooftop Solar Capitalized in Home Prices? With Kenneth Gillingham.
 R&R at Regional Science and Urban Economics.
-[[Working paper]](https://www.dropbox.com/scl/fi/ccz50ie7jv95i76k1km8o/Gillingham-and-Watten-Solar-Capitalization.pdf?rlkey=36ity4d1svi1khopqssj9ni5r&dl=0).^[Key figure. Full solar capitalization assumes a high discount rate.<br>
+[[Working paper]](https://www.dropbox.com/scl/fi/ccz50ie7jv95i76k1km8o/Gillingham-and-Watten-Solar-Capitalization.pdf?rlkey=36ity4d1svi1khopqssj9ni5r&dl=0)^[Key figure. Full solar capitalization assumes a high discount rate.<br>
 <a href="figs/solar capitalization estimates.png"><img src="figs/solar capitalization estimates.png"></a>
 ]
 
