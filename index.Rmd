@@ -58,8 +58,8 @@ R&R at Regional Science and Urban Economics.
 ## Working papers 
 
 Attribute Production and Technical Change in Automobiles. 2023.
-With Soren Anderson and Gloria Helfand. [[NBER]](https://conference.nber.org/conf_papers/f178120.pdf)^[Key figure. Estimated technical change is substantially fuel-economy biased (left). Consumer preferences for size, acceleration, and fuel economy have all increased (right).<br>
-<a href="figs/attributes_fig10.png"><img src="figs/attributes_fig10.png"></a>
+With Soren Anderson and Gloria Helfand. [[NBER]](https://conference.nber.org/conf_papers/f178120.pdf)^[Simulations shows the effect fixing consumer preferences, technology, and policy at 1995 levels.<br>
+<a href="figs/attributes_fig8.png"><img src="figs/attributes_fig8.png"></a>
 ]
 
 Political Risk Reduces Solar Adoption in Renewable Portfolio Standards. 2022.^[Dissertation chapter.] [[Slides]](https://www.dropbox.com/scl/fi/2k3e1eh86bsox7rnvmigz/Watten_AERE_2022.pdf?rlkey=wyhl3h35cfv05ia5gcoo4odn8&dl=0)
