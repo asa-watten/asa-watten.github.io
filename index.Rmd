@@ -56,7 +56,7 @@ R&R at Regional Science and Urban Economics.
 ## Working papers 
 
 Attribute Production and Technical Change in Automobiles. 2023.
-With Soren Anderson and Gloria Helfand. [[NBER]](https://conference.nber.org/conf_papers/f178120.pdf)^[Simulations shows the effect fixing consumer preferences, technology, and policy at 1995 levels.<br>
+With Soren Anderson and Gloria Helfand. [[NBER]](https://conference.nber.org/conf_papers/f178120.pdf)^[Simulations shows the effect of fixing consumer preferences, technology, and policy at 1995 levels.<br>
 <a href="figs/attributes_fig8.png"><img src="figs/attributes_fig8.png"></a>
 ]
 
