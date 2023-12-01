@@ -58,7 +58,7 @@ R&R at Regional Science and Urban Economics.
 ## Working papers 
 
 Attribute Production and Technical Change in Automobiles. 2023.
-With Soren Anderson and Gloria Helfand. [[NBER]](https://conference.nber.org/conf_papers/f178120.pdf)^[Key figure. Estimated technical change is substantially fuel-economy biased (left). Consumer preferences for size, acceleration, and fuel economy have all increaed (right).<br>
+With Soren Anderson and Gloria Helfand. [[NBER]](https://conference.nber.org/conf_papers/f178120.pdf)^[Key figure. Estimated technical change is substantially fuel-economy biased (left). Consumer preferences for size, acceleration, and fuel economy have all increased (right).<br>
 <a href="figs/attributes_fig10.png"><img src="figs/attributes_fig10.png"></a>
 ]
 
@@ -66,11 +66,20 @@ Political Risk Reduces Solar Adoption in Renewable Portfolio Standards. 2022.^[D
 
 ## Works in progress
 
-Co-adoption of Rooftop Solar and Electric Vehicles. With Bryan Bollinger and Kenneth Gillingham.^[DOE grant funded.]
+The Marginal Benefits of Electrification Policy. With Soren Anderson and John Bistline.^[Electricity CO2 intensity increased before decreasing in ERCOT (top). Demand shocks are associated with above-trend cleaner electricity one year later (bottom).<br>
+<a href="figs/co2_intense.png"><img src="figs/co2_intense.png"></a>
+<a href="figs/shock-elast.png"><img src="figs/shock-elast.png"></a>
+]
+
+Technology Specific Subsidies and Policy Longevity.
+
+Solar Households Catch the EV Wave. With Bryan Bollinger and Kenneth Gillingham.^[DOE grant funded.]
 
 Green vs Grid-independence Messaging: Evidence from a Residential Battery Storage Field Experiment. With Bryan Bollinger and Kenneth Gillingham.^[Ibid.]
 
 Against the Wind? Hedonic Estimation Under Attribute Uncertainty.
+
+Dynamic Intraseasonal Farming Investment, Abandonment, and Climate Change.
 
 # Contact <a id="contact"></a>
 
