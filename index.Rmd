@@ -60,7 +60,9 @@ With Soren Anderson and Gloria Helfand. [[NBER]](https://conference.nber.org/con
 <a href="figs/attributes_fig8.png"><img src="figs/attributes_fig8.png"></a>
 ]
 
-Political Risk Reduces Solar Adoption in Renewable Portfolio Standards. 2022.^[Dissertation chapter.] [[Slides]](https://www.dropbox.com/scl/fi/2k3e1eh86bsox7rnvmigz/Watten_AERE_2022.pdf?rlkey=wyhl3h35cfv05ia5gcoo4odn8&dl=0)
+Political Risk Reduces Solar Adoption in Renewable Portfolio Standards. 2022.^[Effect on rooftop solar adoption of reducing political risk and price volatility of renewable energy credits relative to baseline (bootstrap distribution).<br>
+<a href="figs/adopt_ratio.png"><img src="figs/adopt_ratio.png"></a>
+] [[Slides]](https://www.dropbox.com/scl/fi/2k3e1eh86bsox7rnvmigz/Watten_AERE_2022.pdf?rlkey=wyhl3h35cfv05ia5gcoo4odn8&dl=0)
 
 ## Works in progress
 
@@ -68,7 +70,9 @@ The Marginal Benefits of Electrification Policy. With Soren Anderson and John Bi
 <a href="figs/shock-elast.png"><img src="figs/shock-elast.png"></a>
 ]
 
-Technology Specific Subsidies and Policy Longevity.
+Technology Specific Subsidies and Policy Longevity.^[Social benefit of Pigouvian output subsidy in political risk and marginal maintance cost space.<br>
+<a href="figs/pvq.png"><img src="figs/pvq.png"></a>
+]
 
 Solar Households Catch the EV Wave. With Bryan Bollinger and Kenneth Gillingham.^[DOE grant funded.]
 
