@@ -64,8 +64,7 @@ Political Risk Reduces Solar Adoption in Renewable Portfolio Standards. 2022.^[D
 
 ## Works in progress
 
-The Marginal Benefits of Electrification Policy. With Soren Anderson and John Bistline.^[Marginal CO2 emissions per kWh have trended downwards since 2016 in ERCOT (top). Demand shocks are associated with above-trend cleaner electricity one year later (bottom).<br>
-<a href="figs/co2_intense.png"><img src="figs/co2_intense.png"></a>
+The Marginal Benefits of Electrification Policy. With Soren Anderson and John Bistline.^[Marginal CO2 emissions per kWh have trended downwards since 2016 in ERCOT (left). Demand shocks are associated with above-trend cleaner electricity one year later (right).<br>
 <a href="figs/shock-elast.png"><img src="figs/shock-elast.png"></a>
 ]
 
