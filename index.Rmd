@@ -29,7 +29,7 @@ options(htmltools.dir.version = FALSE)
 </script>
 ## [cv](https://www.dropbox.com/scl/fi/wqc9ny1b6t4ajq100w9ek/CV.pdf?rlkey=cxvbaoe21tyuhbi3rtdfan0s1&dl=0) ⋅ [research](#research) ⋅ [contact](#contact)
 ```{marginfigure}
-<img src="figs/tucson.jpg"><br><br><br>
+<img src="figs/AW_ivy.jpg"><br><br><br>
 ```
 
 I am an economist and a post-doc at [Yale School of the Environment](https://environment.yale.edu/). My research focuses on the microeconomics of energy and climate innovation: Who adopts new technologies and why? How can the government direct—and speed up—technical change? How do manufacturers and innovators respond to both policy and politics? I use a combination of economic modeling and causal inference to investigate these questions.
